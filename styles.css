@@ -82,9 +82,7 @@ footer{
 }
 
 .empbtn:hover {
-    transform: scale(1.05,1.04);
     background-color: #E8AF5D;
-    border: 2px solid black;
 }
 .profile-pic {
     width: 50%; 
