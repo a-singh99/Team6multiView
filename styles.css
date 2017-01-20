@@ -109,3 +109,10 @@ footer{
     font-size: 40px; 
 }
 
+#improw {
+    text-align: left; 
+}
+
+.lang {
+    width: 50%
+}
