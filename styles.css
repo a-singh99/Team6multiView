@@ -1,1 +1,43 @@
-css start
+body{
+    margin:0;
+}
+
+
+header {
+    height:75px;
+    background-color:#fcfcfc;
+    /*background-color:black;*/
+    width:100%;
+    position:fixed;
+    z-index:2;
+}
+
+.title {
+    font-weight:bold;
+}
+
+.jumbotron {
+    background-color:white;
+}
+
+
+.hero {
+    width:100%;
+    position:relative;
+    text-align:center;
+    height:650px;
+    background: url("http://minimography.com/wp-content/uploads/2015/12/minimography069.jpg") 50% 50%;
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+h2 {
+    position: absolute;
+    top: 35%;
+    left: 25%;
+    text-align:center;
+}
+.row {
+    text-align:center;
+}
+
