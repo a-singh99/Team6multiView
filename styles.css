@@ -1,7 +1,7 @@
-body{
-    margin:0;
-}
 
+body {
+    font-family: 'Raleway', sans-serif;
+}
 
 header {
     height:75px;
@@ -39,5 +39,44 @@ h2 {
 }
 .row {
     text-align:center;
+}
+
+
+
+
+.background {
+    background-color: #F7EDE2; 
+}
+
+.profile-pic {
+    width: 50%; 
+    margin: auto; 
+    display: block; 
+    border: 1px solid grey; 
+}
+
+.job-title {
+    margin-top: 30px; 
+    font-weight: bold; 
+    margin-bottom: 30px; 
+}
+
+.media-row {
+    min-height: 40px; 
+    /*border: 1px solid black; */
+}
+
+.age, .email, .bio {
+    margin: 0; 
+    display: inline-block; 
+}
+
+.age-p, .email-p, .bio-p {
+    display: inline-block; 
+}
+
+.e-name {
+    font-family: 'Alfa Slab One', cursive;
+    font-size: 40px; 
 }
 
